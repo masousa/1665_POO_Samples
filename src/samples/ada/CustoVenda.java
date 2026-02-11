@@ -1,3 +1,5 @@
+package samples.ada;
+
 import java.util.Scanner;
 
 public class CustoVenda {
